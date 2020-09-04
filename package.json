@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "@google-cloud/speech": "^3.3.0",
-    "alphavantage": "1.2.6",
+    "alphavantage": "2.2.0",
     "angular-moment": "^1.0.1",
     "annyang": "^2.6.0",
     "cheerio": "^1.0.0-rc.3",
